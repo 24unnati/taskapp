@@ -1,6 +1,6 @@
-import './App.css';
-import { Lodash } from './components/Lodash';
-import { Moment } from './components/Moment';
+import "./App.css";
+import { Lodash } from "./components/Lodash";
+import { Moment } from "./components/Moment";
 
 function App() {
   return (
